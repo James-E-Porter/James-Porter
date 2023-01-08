@@ -11,8 +11,4 @@
 7. Stats Lectures(Khans Academy)-https://www.khanacademy.org/math/statistics-probability
 9. Python EDA- https://www.youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
 10. Python Feature Engineering- https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN
-11. Power BI- https://ineuron.ai/home/coursedetail/powerbi--100
-12. Tableau- https://ineuron.ai/home/coursedetail/tableau-101
 
-# Ineuron Affordable Data Analyst And BA Course
-https://ineuron.ai/home/coursedetail/business-analytics-153
