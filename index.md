@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Learn Skills](/read2)
+[Learn Skills](/read2.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
