@@ -21,9 +21,9 @@ The install team had a very specific way that they wanted labeling to be done.  
 ```
 
 The VLOOKUP on the cable sample pulls that information into the right place.  
-'''
+  ```
 =VLOOKUP(D5,Sheet1!B22:D26,3,FALSE)
-'''
+```
 All the tables used to stor the data was placed on a seperate tab (sheet1)  This kept it all in one place making it easier to manipulate.  In the future I would label those tables to make them more apparent as to what they were used for.  This would make the whole document easier to interpret if someone needed to dissect what I had done.
 
 ### 4. Conclusion
