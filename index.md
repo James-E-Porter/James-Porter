@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### EXCEL 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
+<img src="/Interactive_Label_Small.pngpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
