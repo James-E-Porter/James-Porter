@@ -2,6 +2,8 @@
 
  This project was developed out of the need for an easier way to visualize labeling rules for a server room.  The server room that I was working with was undergoing an extensive remodel/upgrade which entailed a lot of equipment replacement.  This required a complete shuffeling of our rack space in order to accomodate the new equipment.  This meant that we needed to re run a large assortment of various cabling.   The contractor doing the install needed the cabling ran prior to the equipment installs and needed the local team to label the cables according to their labeling schema.  The schema was overly complex and the team needed a way to simplify the process so that they could all be making cables the same way and consistent with the install teams requirements.
 
+<img src="/Interactive_Labels.png?raw=true"/>
+
 ### 1. The Planner
 
 With a need in place, I went about designing an interactive excel sheet that would take user input and show a visual of what the labels were suppose to look like.
