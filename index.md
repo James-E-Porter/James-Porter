@@ -5,6 +5,7 @@
 ### EXCEL 
 
 [Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
+
 <img src="/Interactive_Labels_Small.png?raw=true"/>
 
 ---
