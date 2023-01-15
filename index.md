@@ -11,7 +11,9 @@
 ---
 
 ### Python
+
 [Norway Weather Trends](/Norway_Weather.ipynb)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
