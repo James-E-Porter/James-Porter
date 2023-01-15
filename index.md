@@ -9,7 +9,9 @@
 <img src="/Interactive_Labels_Small.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Python
+[Norway Weather Trends](/Norway_Weather.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
