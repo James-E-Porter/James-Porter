@@ -14,7 +14,7 @@
 
 [Norway Weather Trends](https://github.com/James-E-Porter/james-e-porter.github.io/blob/main/Norway_Weather.ipynb)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/Norway_Small.jpg?raw=true"/>
 
 ---
 [Learn Skills](/READ2.md)
