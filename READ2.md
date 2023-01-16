@@ -2,7 +2,7 @@
 
 # Skills Required For A Data Analyst in 2021
 
-1. Basic Excel- https://www.youtube.com/playlist?list=PLmQAMKHKeLZ_ADx6nJcoTM5t2S1bmsMdm
+1. Python Data Science Handbook- (https://jakevdp.github.io/PythonDataScienceHandbook/)
 2. Advanced Excel- https://www.youtube.com/playlist?list=PLmQAMKHKeLZ_e9xmZNPACsLdgie3Tkaxf
 3. SQL-https://www.youtube.com/watch?v=5JCyiutyu_o&list=PLmQAMKHKeLZ-kD9VN0prfKCByr9pa4jw6
 4. SQL- (Khan Academy)-https://www.khanacademy.org/computing/computer-programming/sql
