@@ -12,7 +12,7 @@
 
 ### Python
 
-[Norway Weather Trends](/Norway_Weather.ipynb)
+[Norway Weather Trends](https://github.com/James-E-Porter/james-e-porter.github.io/blob/main/Norway_Weather.ipynb)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
