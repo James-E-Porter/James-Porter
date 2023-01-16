@@ -1,6 +1,4 @@
-# Data-Analyst-Skill-With-Videos-in-2021
-
-# Skills Required For A Data Analyst in 2021
+# Data-Analyst-Useful Links
 
 1. Python Data Science Handbook- (https://jakevdp.github.io/PythonDataScienceHandbook/)
 2. Advanced Excel- https://www.youtube.com/playlist?list=PLmQAMKHKeLZ_e9xmZNPACsLdgie3Tkaxf
