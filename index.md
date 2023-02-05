@@ -24,7 +24,7 @@
 
 ---
 
-### Python          <img align = "center"  src="/images/We've got a gorilla for sale.jpg?raw=true" width="400" height="200"/>
+### Python          <img align = "right"  src="/images/We've got a gorilla for sale.jpg?raw=true" width="400" height="200"/>
 <br />
 <br />
 
