@@ -17,6 +17,9 @@
 <img src="/images/Norway_Small.jpg?raw=true"/>
 
 ---
+
+### Python
+
 [Primates in Animation](https://github.com/James-E-Porter/Primates_In_Animation/blob/main/Primates%20in%20Animation%20Part%201.ipynb)
 
 <img src="/images/We've got a gorilla for sale.jpg?raw=true"/>
