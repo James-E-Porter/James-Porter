@@ -11,7 +11,10 @@
 ---
 
 ### Python           <img align = "center" src="/images/Norway_Small.jpg?raw=true" style="float: right;" width="400" height="200"/>
-   
+
+
+
+
 [Norway Weather Trends](https://github.com/James-E-Porter/Norway_Weather_Trends/blob/main/Norway_Weather.ipynb) 
 
 
