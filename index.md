@@ -6,7 +6,7 @@
 <br />
 <br />
 
-# [Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
+## [Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
 
 <br />
 <br />
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-# [Norway Weather Trends](https://github.com/James-E-Porter/Norway_Weather_Trends/blob/main/Norway_Weather.ipynb) 
+## [Norway Weather Trends](https://github.com/James-E-Porter/Norway_Weather_Trends/blob/main/Norway_Weather.ipynb) 
 
 <br />
 <br />
@@ -28,7 +28,7 @@
 <br />
 <br />
 
-# [Primates in Animation](https://github.com/James-E-Porter/Primates_In_Animation/blob/main/Primates%20in%20Animation%20Part%201.ipynb)
+## [Primates in Animation](https://github.com/James-E-Porter/Primates_In_Animation/blob/main/Primates%20in%20Animation%20Part%201.ipynb)
 
 <br />
 <br />
