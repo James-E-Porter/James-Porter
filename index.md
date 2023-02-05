@@ -2,11 +2,10 @@
 
 ---
 
-### EXCEL 
+### EXCEL           <img align = "center" style="float: right;" src="/Interactive_Labels_Small.png?raw=true" width="400" height="200"/>
 
 [Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
 
-<img style="float: right;" src="/Interactive_Labels_Small.png?raw=true" width="400" height="200"/>
 
 ---
 
@@ -22,11 +21,11 @@
 
 ---
 
-### Python
+### Python          <img align = "center"  src="/images/We've got a gorilla for sale.jpg?raw=true" width="400" height="200"/>
 
 [Primates in Animation](https://github.com/James-E-Porter/Primates_In_Animation/blob/main/Primates%20in%20Animation%20Part%201.ipynb)
 
-<img style="float: right;" src="/images/We've got a gorilla for sale.jpg?raw=true" width="400" height="200"/>
+
 
 ---
 
