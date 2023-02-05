@@ -18,7 +18,7 @@
 
 ---
 [Primates in Animation](https://github.com/James-E-Porter/Primates_In_Animation/blob/main/Primates%20in%20Animation%20Part%201.ipynb)
-<img src="https://github.com/James-E-Porter/Primates_In_Animation/We've got a gorilla for sale.jpg?raw=true"/>
+<img src="/images/We've got a gorilla for sale.jpg?raw=true"/>
 
 ---
 
