@@ -6,7 +6,7 @@
 
 [Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
 
-<img src="/Interactive_Labels_Small.png?raw=true" width="400" height="200"/>
+<img style="float: right;" src="/Interactive_Labels_Small.png?raw=true" width="400" height="200"/>
 
 ---
 
@@ -14,7 +14,7 @@
 
 [Norway Weather Trends](https://github.com/James-E-Porter/Norway_Weather_Trends/blob/main/Norway_Weather.ipynb)
 
-<img src="/images/Norway_Small.jpg?raw=true" width="400" height="200"/>
+<img style="float: right;" src="/images/Norway_Small.jpg?raw=true" width="400" height="200"/>
 
 ---
 
@@ -22,7 +22,7 @@
 
 [Primates in Animation](https://github.com/James-E-Porter/Primates_In_Animation/blob/main/Primates%20in%20Animation%20Part%201.ipynb)
 
-<img src="/images/We've got a gorilla for sale.jpg?raw=true" width="400" height="200"/>
+<img style="float: right;" src="/images/We've got a gorilla for sale.jpg?raw=true" width="400" height="200"/>
 
 ---
 
