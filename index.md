@@ -17,8 +17,8 @@
 <img src="/images/Norway_Small.jpg?raw=true"/>
 
 ---
-[Learn Skills](/READ2.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Primates in Animation](https://github.com/James-E-Porter/Primates_In_Animation/blob/main/Primates%20in%20Animation%20Part%201.ipynb)
+<img src="https://github.com/James-E-Porter/Primates_In_Animation/We've got a gorilla for sale.jpg?raw=true"/>
 
 ---
 
