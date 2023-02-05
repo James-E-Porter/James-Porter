@@ -2,17 +2,14 @@
 
 ---
 
->### EXCEL           <img align = "center" style="float: right;" src="/Interactive_Labels_Small.png?raw=true" width="400" height="200"/>
->
->
->
->
->
->
->
->
->
->[Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
+### EXCEL           <img align = "center" style="float: right;" src="/Interactive_Labels_Small.png?raw=true" width="400" height="200"/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+[Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
 
 
 ---
