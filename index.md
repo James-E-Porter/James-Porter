@@ -3,11 +3,11 @@
 ---
 
 ### EXCEL           <img align = "center" style="float: right;" src="/Interactive_Labels_Small.png?raw=true" width="400" height="200"/>
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
+/
+/
+/
+/
+/
 [Interactive Labeling Configuration Planner](/Interactive_Labeling.md)
 
 
